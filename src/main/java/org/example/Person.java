@@ -22,7 +22,7 @@ public class Person {
 
     public static void main(String[] args) {
         Person[] persArray = new Person[5];
-        persArray[0] = new Person("1", "1", "1", "1", 1, 1);
+        persArray[0] = new Person("1", " 1", "1", "1", 1, 1);
         persArray[1] = new Person("2", "2", "2", "2", 2, 2);
         persArray[2] = new Person("3", "3", "3", "3", 3, 3);
         persArray[3] = new Person("4", "4", "4", "4", 4, 4);
